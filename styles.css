@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(177, 211, 218);
+    background-color: rgb(255, 255, 255);
     color: rgb(34, 14, 209);
     font-family: Arial, sans-serif;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-    background-color: rgb(67, 160, 226);
+    background-color: rgb(13, 26, 171);
     color: #fffdfd;
     padding: 16px;
     font-size: 20px;
@@ -33,7 +33,7 @@ p {
 }
 
 .intro {
-    color: rgb(49, 34, 215);
+    color: rgb(48, 39, 149);
     font-size: 20px;
     font-family: "DM Sans", sans-serif;
     font-style: italic;
@@ -49,11 +49,11 @@ p {
 }
 
 a {
-    color: blue;
+    color: rgb(38, 23, 207);
     text-decoration: none;
     font-style: normal;
     font-family: "DM Sans", sans-serif;
-    border: 2px solid blue;
+    border: 2px solid rgb(21, 166, 179);
     padding: 2px 6px;
     border-radius: 2px;
     padding-left: 8px;
